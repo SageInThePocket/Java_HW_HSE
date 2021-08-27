@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="270.0" prefWidth="450.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.hw5.view.ConflictLayoutController">
+   <children>
+      <Button layoutX="360.0" layoutY="223.0" mnemonicParsing="false" onAction="#handleReplaceBtn" text="Заменить" />
+      <Button layoutX="259.0" layoutY="223.0" mnemonicParsing="false" onAction="#handleSkipBtn" prefHeight="25.0" prefWidth="86.0" text="Пропустить" />
+      <Label layoutX="36.0" layoutY="48.0" />
+      <Label layoutX="23.0" layoutY="14.0" text="Импортируемый контакт уже есть в телефонной книге">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="23.0" layoutY="98.0" text="Имя:">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></Label>
+      <Label fx:id="name1Label" layoutX="56.0" layoutY="98.0" text="Name1" />
+      <Label layoutX="23.0" layoutY="81.0" text="Фамилия:">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></Label>
+      <Label fx:id="secondName1Label" layoutX="86.0" layoutY="81.0" text="secondName1" />
+      <Label layoutX="22.0" layoutY="115.0" text="Отчество:">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <Label layoutX="22.0" layoutY="132.0" text="Телефон:">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <Label layoutX="22.0" layoutY="149.0" text="Дом. телефон:">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <Label layoutX="22.0" layoutY="166.0" text="Дата рождения:">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <Label fx:id="patronymic1Label" layoutX="83.0" layoutY="115.0" text="patronymic1" />
+      <Label fx:id="tel1Label" layoutX="79.0" layoutY="132.0" text="Telephone1" />
+      <Label fx:id="homeTel1Label" layoutX="111.0" layoutY="149.0" text="home telephone1" />
+      <Label fx:id="birthday1Label" layoutX="118.0" layoutY="166.0" text="birthday1" />
+       <Label layoutX="36.0" layoutY="48.0" />
+       <Label layoutX="23.0" layoutY="14.0" text="Импортируемый контакт уже есть в телефонной книге">
+           <font>
+               <Font size="14.0" />
+           </font>
+       </Label>
+       <Label layoutX="239.0" layoutY="98.0" text="Имя:">
+           <font>
+               <Font name="System Bold" size="12.0" />
+           </font></Label>
+       <Label fx:id="name2Label" layoutX="272.0" layoutY="98.0" text="Name2" />
+       <Label layoutX="239.0" layoutY="81.0" text="Фамилия:">
+           <font>
+               <Font name="System Bold" size="12.0" />
+           </font></Label>
+       <Label fx:id="secondName2Label" layoutX="302.0" layoutY="81.0" text="secondName2" />
+       <Label layoutX="238.0" layoutY="115.0" text="Отчество:">
+           <font>
+               <Font name="System Bold" size="12.0" />
+           </font>
+       </Label>
+       <Label layoutX="238.0" layoutY="132.0" text="Телефон:">
+           <font>
+               <Font name="System Bold" size="12.0" />
+           </font>
+       </Label>
+       <Label layoutX="238.0" layoutY="149.0" text="Дом. телефон:">
+           <font>
+               <Font name="System Bold" size="12.0" />
+           </font>
+       </Label>
+       <Label layoutX="238.0" layoutY="166.0" text="Дата рождения:">
+           <font>
+               <Font name="System Bold" size="12.0" />
+           </font>
+       </Label>
+       <Label fx:id="patronymic2Label" layoutX="299.0" layoutY="115.0" text="patronymic2" />
+       <Label fx:id="tel2Label" layoutX="295.0" layoutY="132.0" text="Telephone2" />
+       <Label fx:id="homeTel2Label" layoutX="327.0" layoutY="149.0" text="home telephone2" />
+       <Label fx:id="birthday2Label" layoutX="334.0" layoutY="166.0" text="birthday2" />
+      <Label layoutX="24.0" layoutY="48.0" text="Из книжки">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="237.0" layoutY="48.0" text="Импортируемый">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

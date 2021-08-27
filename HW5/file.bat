@@ -1,0 +1,1 @@
+java —module-path C:\distrib\JavaFX\openjfx-11.0.2_windows-x64_bin-sdk\javafx-sdk-11.0.2\lib —add-modules javafx.controls,javafx.graphics,javafx.fxml -jar HW6_194_Nazmutdinov_Roman.jar
