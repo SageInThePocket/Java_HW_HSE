@@ -28,6 +28,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -42,18 +45,45 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../HW4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="validators" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\ВШЭ\Учу Java\Домашки\HW4\resultsForTests" />
+      <recent name="C:\Users\admin\Desktop\ВШЭ\Учу Java\Домашки\HW4\src" />
+      <recent name="C:\Users\admin\Desktop\ВШЭ\Учу Java\Домашки\HW4\src\tests" />
+      <recent name="C:\Users\admin\Desktop\ВШЭ\Учу Java\Домашки\HW4\src\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in HW4">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -65,6 +95,85 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="All in HW4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnyOfValidatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="validators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="validators" />
+      <option name="MAIN_CLASS_NAME" value="validators.AnyOfValidatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidatorClassTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="validators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="validators" />
+      <option name="MAIN_CLASS_NAME" value="validators.ValidatorClassTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidatorClassTest.validate2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="validators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="validators" />
+      <option name="MAIN_CLASS_NAME" value="validators.ValidatorClassTest" />
+      <option name="METHOD_NAME" value="validate2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidatorClassTest.validate3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="validators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="validators" />
+      <option name="MAIN_CLASS_NAME" value="validators.ValidatorClassTest" />
+      <option name="METHOD_NAME" value="validate3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in HW4" />
+        <item itemvalue="JUnit.ValidatorClassTest.validate3" />
+        <item itemvalue="JUnit.ValidatorClassTest.validate2" />
+        <item itemvalue="JUnit.ValidatorClassTest" />
+        <item itemvalue="JUnit.AnyOfValidatorTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -74,7 +183,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613754660128</updated>
-      <workItem from="1613754661478" duration="1190000" />
+      <workItem from="1613754661478" duration="655000" />
+      <workItem from="1613756653032" duration="5557000" />
+      <workItem from="1613810542935" duration="77253000" />
+      <workItem from="1613942814379" duration="3591000" />
+      <workItem from="1613970340953" duration="15559000" />
     </task>
     <servers />
   </component>
@@ -91,11 +204,107 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1613756649139">
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1613984060773">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1613756649139" />
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1613984060773" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1613914006405">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1613914006405" />
+    <state x="743" y="385" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1613983330494">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="385" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1613983330494" />
+    <state x="653" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1613980644218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="653" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1613980644218" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1613942978882">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1613942978882" />
+    <state width="1877" height="346" key="GridCell.Tab.0.bottom" timestamp="1613988720037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1613988720037" />
+    <state width="1877" height="346" key="GridCell.Tab.0.center" timestamp="1613988720036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1613988720036" />
+    <state width="1877" height="346" key="GridCell.Tab.0.left" timestamp="1613988720036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1613988720036" />
+    <state width="1877" height="346" key="GridCell.Tab.0.right" timestamp="1613988720036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1613988720036" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1613987543602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1613987543602" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1613987543601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1613987543601" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1613987543601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1613987543601" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1613987543601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1613987543601" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1613928315422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1613928315422" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1613987519272">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1613987519272" />
+    <state x="665" y="411" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1613916604384">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="665" y="411" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1613916604384" />
+    <state x="731" y="326" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1613923768571">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="326" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1613923768571" />
+    <state x="690" y="281" key="extract.method.dialog" timestamp="1613916457041">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="281" key="extract.method.dialog/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1613916457041" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1613843283279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1613843283279" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1613986516690">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1613986516690" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.reflect.Field" memberName="fieldAccessor" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="fields[0].type" />
+        <watch expression="((Class)((java.lang.reflect.Type[])((ParameterizedTypeImpl)type).actualTypeArguments)[0]).packageName" custom="java.lang.Class,sun.reflect.generics.reflectiveObjects.ParameterizedTypeImpl,java.lang.reflect.Type[]" />
+        <watch expression="((BookingForm)object).amenities" custom="BookingForm" />
+        <watch expression="fieldType.subTrees" />
+        <watch expression="fieldType.subTrees" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HW4$All_in_HW4.ic" NAME="All in HW4 Coverage Results" MODIFIED="1613987930785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
