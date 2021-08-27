@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0748a33e-df1e-4546-9663-d9b9c116212f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1q6ZRcttk8KUzXJvB7elvVhzk37" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.28390804" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.hw5.db" />
+      <recent name="com.hw5.util" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainApplication">
+    <configuration name="MainApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hw5.MainApplication" />
+      <module name="HW5" />
+      <option name="VM_PARAMETERS" value="--module-path ${PATH_TO_FX} --add-modules javafx.controls,javafx.graphics,javafx.fxml" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DERBY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hw5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataBaseManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hw5.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hw5.db" />
+      <option name="MAIN_CLASS_NAME" value="com.hw5.db.DataBaseManagerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataBaseManagerTest.addPerson_CorrectPerson_SuccessfulAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hw5.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hw5.db" />
+      <option name="MAIN_CLASS_NAME" value="com.hw5.db.DataBaseManagerTest" />
+      <option name="METHOD_NAME" value="addPerson_CorrectPerson_SuccessfulAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataBaseManagerTest.addPerson_PersonWithoutName_FailedAddAndEmptyArrayList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hw5.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hw5.db" />
+      <option name="MAIN_CLASS_NAME" value="com.hw5.db.DataBaseManagerTest" />
+      <option name="METHOD_NAME" value="addPerson_PersonWithoutName_FailedAddAndEmptyArrayList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataBaseManagerTest.addPerson_PersonWithoutSurname_FailedAddAndEmptyArrayList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hw5.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hw5.db" />
+      <option name="MAIN_CLASS_NAME" value="com.hw5.db.DataBaseManagerTest" />
+      <option name="METHOD_NAME" value="addPerson_PersonWithoutSurname_FailedAddAndEmptyArrayList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FieldValidatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hw5.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hw5.util" />
+      <option name="MAIN_CLASS_NAME" value="com.hw5.util.FieldValidatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainApplication" />
+      <item itemvalue="JUnit.DataBaseManagerTest" />
+      <item itemvalue="JUnit.DataBaseManagerTest.addPerson_PersonWithoutName_FailedAddAndEmptyArrayList" />
+      <item itemvalue="JUnit.DataBaseManagerTest.addPerson_CorrectPerson_SuccessfulAdd" />
+      <item itemvalue="JUnit.DataBaseManagerTest.addPerson_PersonWithoutSurname_FailedAddAndEmptyArrayList" />
+      <item itemvalue="JUnit.FieldValidatorTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FieldValidatorTest" />
+        <item itemvalue="JUnit.DataBaseManagerTest" />
+        <item itemvalue="JUnit.DataBaseManagerTest.addPerson_PersonWithoutSurname_FailedAddAndEmptyArrayList" />
+        <item itemvalue="JUnit.DataBaseManagerTest.addPerson_CorrectPerson_SuccessfulAdd" />
+        <item itemvalue="JUnit.DataBaseManagerTest.addPerson_PersonWithoutName_FailedAddAndEmptyArrayList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0748a33e-df1e-4546-9663-d9b9c116212f" name="Default Changelist" comment="" />
+      <created>1616401994074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616401994074</updated>
+      <workItem from="1616401995158" duration="2080000" />
+      <workItem from="1616404375893" duration="2679000" />
+      <workItem from="1616412813871" duration="50469000" />
+      <workItem from="1616592859279" duration="8348000" />
+      <workItem from="1616611244422" duration="9374000" />
+      <workItem from="1616621641160" duration="5602000" />
+      <workItem from="1616627785171" duration="529000" />
+      <workItem from="1616696728064" duration="17059000" />
+      <workItem from="1616715245449" duration="35448000" />
+      <workItem from="1616918500231" duration="10469000" />
+      <workItem from="1619277661730" duration="22000" />
+      <workItem from="1619339740560" duration="153000" />
+      <workItem from="1620662938143" duration="443000" />
+      <workItem from="1620665790309" duration="14603000" />
+      <workItem from="1620690951895" duration="39259000" />
+      <workItem from="1620750902474" duration="2319000" />
+      <workItem from="1620753242602" duration="6224000" />
+      <workItem from="1620759600095" duration="930000" />
+      <workItem from="1622034455195" duration="634000" />
+      <workItem from="1622101316617" duration="20000" />
+      <workItem from="1622374041302" duration="515000" />
+      <workItem from="1622700068406" duration="50000" />
+      <workItem from="1622738816456" duration="638000" />
+      <workItem from="1622790674389" duration="111000" />
+      <workItem from="1622825007383" duration="1315000" />
+      <workItem from="1622887597210" duration="5707000" />
+      <workItem from="1622904679270" duration="3688000" />
+      <workItem from="1623075619182" duration="25000" />
+      <workItem from="1623152749236" duration="1209000" />
+      <workItem from="1628784804333" duration="737000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1616626842079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1616626842079" />
+    <state x="349" y="361" key="#SQL_Dialects" timestamp="1620749482781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="349" y="361" key="#SQL_Dialects/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1620749482781" />
+    <state x="-1135" y="136" width="789" height="526" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622893293338">
+      <screen x="-1366" y="52" width="1366" height="728" />
+    </state>
+    <state x="137" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1616918570213" />
+    <state x="-1229" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1616797284248" />
+    <state x="324" y="120" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1616960076126" />
+    <state x="-1135" y="136" width="789" height="526" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1366.52.1366.728@-1366.52.1366.728" timestamp="1622893293338" />
+    <state x="324" y="120" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1620752927556" />
+    <state x="723" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616778538479">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="723" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1616778538479" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1620711692911">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1616622331335" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1620711692911" />
+    <state x="808" y="220" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1620750744542">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-791" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1616781130390" />
+    <state x="808" y="220" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1620750744542" />
+    <state x="642" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1616507702163">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="642" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1616507702163" />
+    <state x="416" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1616704936370">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="416" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1616704936370" />
+    <state x="657" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1616521592586" />
+    <state x="-723" y="234" key="DetectedRootsChooserDialog" timestamp="1616403328250">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="-723" y="234" key="DetectedRootsChooserDialog/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1616403328250" />
+    <state x="-759" y="166" key="FileChooserDialogImpl" timestamp="1622833773039">
+      <screen x="-1366" y="52" width="1366" height="728" />
+    </state>
+    <state x="607" y="114" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1616602003449" />
+    <state x="-759" y="114" key="FileChooserDialogImpl/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1616787475933" />
+    <state x="853" y="163" key="FileChooserDialogImpl/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1619277681243" />
+    <state x="-759" y="166" key="FileChooserDialogImpl/0.0.1920.1040/-1366.52.1366.728@-1366.52.1366.728" timestamp="1622833773039" />
+    <state x="853" y="163" key="FileChooserDialogImpl/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1622700118974" />
+    <state width="1323" height="316" key="GridCell.Tab.0.bottom" timestamp="1622897020398">
+      <screen x="-1366" y="52" width="1366" height="728" />
+    </state>
+    <state width="1323" height="316" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1622374556243" />
+    <state width="1323" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1616847508614" />
+    <state width="1877" height="430" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1616960278802" />
+    <state width="1323" height="316" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.52.1366.728@-1366.52.1366.728" timestamp="1622897020398" />
+    <state width="1877" height="331" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1620760531238" />
+    <state width="1323" height="316" key="GridCell.Tab.0.center" timestamp="1622897020397">
+      <screen x="-1366" y="52" width="1366" height="728" />
+    </state>
+    <state width="1323" height="316" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1622374556243" />
+    <state width="1323" height="278" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1616847508610" />
+    <state width="1877" height="430" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1616960278802" />
+    <state width="1323" height="316" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.52.1366.728@-1366.52.1366.728" timestamp="1622897020397" />
+    <state width="1877" height="331" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1620760531238" />
+    <state width="1323" height="316" key="GridCell.Tab.0.left" timestamp="1622897020397">
+      <screen x="-1366" y="52" width="1366" height="728" />
+    </state>
+    <state width="1323" height="316" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1622374556242" />
+    <state width="1323" height="278" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1616847508610" />
+    <state width="1877" height="430" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1616960278802" />
+    <state width="1323" height="316" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.52.1366.728@-1366.52.1366.728" timestamp="1622897020397" />
+    <state width="1877" height="331" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1620760531238" />
+    <state width="1323" height="316" key="GridCell.Tab.0.right" timestamp="1622897020398">
+      <screen x="-1366" y="52" width="1366" height="728" />
+    </state>
+    <state width="1323" height="316" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1622374556243" />
+    <state width="1323" height="278" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1616847508614" />
+    <state width="1877" height="430" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1616960278802" />
+    <state width="1323" height="316" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.52.1366.728@-1366.52.1366.728" timestamp="1622897020398" />
+    <state width="1877" height="331" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1620760531238" />
+    <state width="1877" height="430" key="GridCell.Tab.1.bottom" timestamp="1620753224398">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="278" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616775456178" />
+    <state width="1323" height="278" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1616847508616" />
+    <state width="1877" height="430" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1616960278803" />
+    <state width="1877" height="430" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1620753224398" />
+    <state width="1877" height="430" key="GridCell.Tab.1.center" timestamp="1620753224398">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="278" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1616775456178" />
+    <state width="1323" height="278" key="GridCell.Tab.1.center/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1616847508616" />
+    <state width="1877" height="430" key="GridCell.Tab.1.center/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1616960278803" />
+    <state width="1877" height="430" key="GridCell.Tab.1.center/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1620753224398" />
+    <state width="1877" height="430" key="GridCell.Tab.1.left" timestamp="1620753224398">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="278" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1616775456177" />
+    <state width="1323" height="278" key="GridCell.Tab.1.left/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1616847508616" />
+    <state width="1877" height="430" key="GridCell.Tab.1.left/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1616960278803" />
+    <state width="1877" height="430" key="GridCell.Tab.1.left/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1620753224398" />
+    <state width="1877" height="430" key="GridCell.Tab.1.right" timestamp="1620753224398">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="278" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1616775456178" />
+    <state width="1323" height="278" key="GridCell.Tab.1.right/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1616847508616" />
+    <state width="1877" height="430" key="GridCell.Tab.1.right/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1616960278803" />
+    <state width="1877" height="430" key="GridCell.Tab.1.right/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1620753224398" />
+    <state x="-1019" y="179" width="1040" height="770" key="SettingsEditor" timestamp="1622887722815">
+      <screen x="-1366" y="52" width="1366" height="728" />
+    </state>
+    <state x="326" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1616595353533" />
+    <state x="-1040" y="0" key="SettingsEditor/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1616781843889" />
+    <state x="481" y="168" key="SettingsEditor/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1616959981492" />
+    <state x="-1019" y="179" key="SettingsEditor/0.0.1920.1040/-1366.52.1366.728@-1366.52.1366.728" timestamp="1622887722815" />
+    <state x="488" y="182" width="1040" height="770" key="SettingsEditor/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1620759747953" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1620733825345">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1620733825345" />
+    <state x="388" y="255" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1616767251860">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="388" y="255" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1616767251860" />
+    <state x="638" y="174" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1620743516603">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="454" y="122" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1616768316771" />
+    <state x="638" y="174" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1620743516603" />
+    <state x="512" y="256" width="895" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1616496400313">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="512" y="256" width="895" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1616496400313" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1620759707521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1620759707521" />
+    <state x="342" y="140" key="new project wizard" timestamp="1622790732164">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1616494095952" />
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1622790732164" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1620736887425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1620736887425" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1620732574113">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1620732574113" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalAccessError" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HW5$All_in_HW5.ic" NAME="All in HW5 Coverage Results" MODIFIED="1616780545406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/HW5$DataBaseManagerTest.ic" NAME="DataBaseManagerTest Coverage Results" MODIFIED="1620752475501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.hw5.db.*</FILTER>
+    </SUITE>
+  </component>
+</project>

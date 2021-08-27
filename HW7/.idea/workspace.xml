@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3713bd16-24ec-464a-8725-25bf68045ca3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/server">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="server" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tTQjGFMRHvlH1REg9QdJNApPse" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Домашки/Java_HW_HSE/HW1" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.28390804" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\ВШЭ\Учу Java\HW7\client\src\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainApp">
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hw7.MainApp" />
+      <module name="client" />
+      <option name="VM_PARAMETERS" value="--module-path ${PATH_TO_FX} --add-modules javafx.controls,javafx.graphics,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hw7.ServerStarter" />
+      <module name="server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainApp" />
+      <item itemvalue="Application.ServerStarter" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApp" />
+        <item itemvalue="Application.ServerStarter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3713bd16-24ec-464a-8725-25bf68045ca3" name="Default Changelist" comment="" />
+      <created>1622790787114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622790787114</updated>
+      <workItem from="1622790788187" duration="20347000" />
+      <workItem from="1622823276633" duration="17000" />
+      <workItem from="1622823306457" duration="30808000" />
+      <workItem from="1622891297284" duration="26110000" />
+      <workItem from="1623075655530" duration="695000" />
+      <workItem from="1623078429474" duration="4211000" />
+      <workItem from="1623084956395" duration="1211000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1622828436257">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1622828436257" />
+    <state x="414" y="175" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622906471093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1622906471093" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1622911827087">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1622911827087" />
+    <state x="588" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1622826040092">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="588" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1622826040092" />
+    <state x="782" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1622828087027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="782" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1622828087027" />
+    <state x="743" y="385" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1622908063990">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="385" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1622908063990" />
+    <state x="553" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1622920968100">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="553" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1622920968100" />
+    <state width="443" height="466" key="DebuggerActiveHint" timestamp="1622840130530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="443" height="466" key="DebuggerActiveHint/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1622840130530" />
+    <state x="757" y="390" key="DetectedRootsChooserDialog" timestamp="1622888640269">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="757" y="390" key="DetectedRootsChooserDialog/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1622888640269" />
+    <state x="-840" y="244" key="FileChooserDialogImpl" timestamp="1623084807200">
+      <screen x="-1366" y="52" width="1366" height="728" />
+    </state>
+    <state x="-840" y="244" key="FileChooserDialogImpl/0.0.1920.1040/-1366.52.1366.728@-1366.52.1366.728" timestamp="1623084807200" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1622904629560" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1622975979924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1622975979924" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1622975979924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1622975979924" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1622975979923">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1622975979923" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1622975979924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1622975979924" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1622888675610">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1622888675610" />
+    <state x="-1235" y="52" key="new project wizard" timestamp="1623078576970">
+      <screen x="-1366" y="52" width="1366" height="728" />
+    </state>
+    <state x="-1235" y="52" key="new project wizard/0.0.1920.1040/-1366.52.1366.728@-1366.52.1366.728" timestamp="1623078576970" />
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1622827513775" />
+    <state x="736" y="268" key="refactoring.ChangeSignatureDialog" timestamp="1622831829206">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="268" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/-1366.52.1366.728@0.0.1920.1040" timestamp="1622831829206" />
+  </component>
+</project>
